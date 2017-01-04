@@ -1,4 +1,4 @@
-import base64_url_decode from "./base64_url_decode";
+import base64_url_decode from "./lib/base64_url_decode";
 'use strict';
 
 export class JwtDecode {

@@ -1,4 +1,4 @@
-import { JwtDecode } from './lib/index';
+import { JwtDecode } from "./index";
 
 class Example {
 

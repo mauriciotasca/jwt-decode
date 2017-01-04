@@ -3,5 +3,5 @@ export interface IJwtDecode {
 }
 
 declare class JwtDecode implements IJwtDecode{
-    decode(token: string, options?: any): Object;
+    public decode(token: string, options?: any): Object;
 }
